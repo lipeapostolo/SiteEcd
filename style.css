@@ -78,10 +78,9 @@ section {
 }
 
 .carisma-image {
-	width: 100%;
-	height: 400px;
 	object-fit: cover;
-	border-radius: 10px;
+    border-radius: 10px;
+    padding-left: 15.3rem;
 }
 
 /* Nossa Fundadora */
@@ -101,14 +100,13 @@ section {
 
 .fundadora-image-container {
 	text-align: center;
+	padding-left: 15rem;
 }
 
 .fundadora-image {
-	width: 100%;
-	height: 400px;
-	object-fit: cover;
-	border-radius: 10px;
-	margin-bottom: 20px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .fundadora-name {
