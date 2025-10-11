@@ -77,10 +77,13 @@ section {
 	text-align: justify;
 }
 
+.div-carisma-image {
+	padding-left: 25%;
+}
+
 .carisma-image {
 	object-fit: cover;
     border-radius: 10px;
-    padding-left: 15.3rem;
 }
 
 /* Nossa Fundadora */
@@ -100,7 +103,6 @@ section {
 
 .fundadora-image-container {
 	text-align: center;
-	padding-left: 15rem;
 }
 
 .fundadora-image {
@@ -355,5 +357,9 @@ section {
 
 	.gallery-grid {
 		grid-template-columns: 1fr;
+	}
+
+	.div-carisma-image{
+		padding: 0%;
 	}
 }
