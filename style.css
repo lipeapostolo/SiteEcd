@@ -362,4 +362,9 @@ section {
 	.div-carisma-image{
 		padding: 0%;
 	}
+
+	.social-links{
+		display: flex;
+		flex-direction: column;
+	}
 }
